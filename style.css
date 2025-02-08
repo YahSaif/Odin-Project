@@ -3,10 +3,11 @@
    font-family: Roboto, sans-serif;
    background-color:#1F2937;
    color: white;
+   padding-bottom: 0px; 
+   margin-bottom: 0px;
 }
 .nav-item{
     display: flex;
-    align-items: center;
     justify-content: space-between;
     margin-right: 80px;
 }
@@ -18,4 +19,37 @@ li{
    list-style: none;
    display: inline;
     padding: 10px;
+}
+.secondpart{
+    background-color:#1F2937;
+    color: white;   
+    padding: 0px;   
+    margin: 0px;
+}
+h1{
+    display: flex;
+    margin-left: 100px;
+}
+.para{
+    margin-left: 100px;
+    margin-right: 800px;
+}
+button{
+    display: flex;
+    background-color: #3882F6;
+    color: white;
+    align-items: center;
+    display: inline;
+}
+.first{
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.second{
+    display: flex;
+    background-color: grey;
+    margin-left: 500px;
+    border-radius: 0;
+    padding: 50px;
+    display: inline;
 }
