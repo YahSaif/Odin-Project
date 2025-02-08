@@ -1,0 +1,21 @@
+.flex-container {
+    background-color: #1F2937;
+    width: 1700px;
+    height: 350px;
+    margin: 0px;   
+}
+.flex-item-headerlogo{
+    color : white;
+    font-size: 9px;
+    margin-left: 100px;
+    margin-top: 5px;
+}
+.flex-item-others{
+    color : gray;
+    align-items: left;
+    font-size: 9px;
+    margin-left: 1000px;
+    display: flex;
+    flex-flow: row wrap;
+    margin-top: 0px;
+}
