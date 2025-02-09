@@ -9,7 +9,11 @@
 li{
     list-style-type: none;
     display: inline;
-    margin: 10px;
+    margin: 1px;
+    margin-right: 20px;
+}
+ul{
+    margin-right: 80px;
 }
 .content{
     display: flex;
@@ -43,3 +47,114 @@ button{
     width:100px;
     height: 30px;
 }
+.title{
+    background-color: white;
+    text-align: center;
+    text-decoration: solid;
+    font-size: 36px;
+    font-weight: 900;
+    margin-bottom: 50px;
+}
+.box1{
+    background-color: white;
+    border-color: blue;
+    padding: 3px;
+    height: 150px;
+    width: 150px;
+}
+.box2{
+    background-color: white;
+    border-color: blue;
+    padding: 3px;
+    height: 150px;
+    width: 150px;
+}
+.box3{
+    background-color: white;
+    border-color: blue;
+    padding: 3px;
+    height: 150px;
+    width: 150px;
+}
+.box4{
+    background-color: white;
+    border-color: blue;
+    padding: 3px;
+    height: 150px;
+    width: 150px;
+    margin-right: 250px;
+}
+.boxes{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 60px;
+}
+.texts{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 0px;
+}
+.text3{
+    margin-left: 130px;
+}
+.text4{
+    margin-left: 130px;
+}
+.text1{
+    margin-left: 70px;
+}
+.text2{
+    margin-left: 130px;
+}
+.three{
+    background-color: lightgray;
+    height: 250px;
+}
+h3{
+    font-size: 36px;
+    text-align: center;
+    padding-top: 80px;
+}
+h4{
+    float: right;
+    margin-right: 50px;
+}
+.four{
+    display: flex;
+    background-color: #3882F6;
+    margin : 100px;
+    border-radius: 10px;
+    color: aliceblue;
+    text-decoration: solid;
+    padding : 30px;
+}
+.butt{
+    padding-left: 150px;
+    padding-top: 70px;
+    border-color: white;
+    height: 30px;
+    width: 60px;
+}
+.title1{
+    font-size: 36px;
+    padding-bottom: 0px;
+}
+.sub1{
+    font-size: 20px;
+    padding-bottom: 5px;
+    margin-top: 0px;
+}
+.butt1{
+    border-color: white;
+    height: 40px;
+    width: 130px;
+    font-size: 15px;
+}
+.five{
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
